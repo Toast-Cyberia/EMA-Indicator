@@ -165,4 +165,3 @@ else
     if not na(lbl_sidepanel)
         label.delete(lbl_sidepanel)
         lbl_sidepanel := na
-
