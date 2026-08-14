@@ -9,7 +9,3 @@ __**Installation・FR**__
 > `2 |` Go to the **Pine Script editor**
 > `3 |` Paste the contents of `Main_Indicator.js`
 > `4 |` Click **"Add to chart"**
-
-📌 __**Liens :**__
-> `├─` [**Github | Toast**](https://github.com/Tomas-Cyberia/EMA-Indicator/blob/main/Main_Indicator.js)
-> `└─` [**Indicateur EMA (Pastebin)**](https://pastebin.com/z22HFK5E)
